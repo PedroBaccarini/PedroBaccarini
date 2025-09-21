@@ -1,8 +1,8 @@
-<h3 align="left">👨‍💻 Pedro Baccarini</h3>
+<h3 align="center">👨‍💻 Pedro Baccarini</h3>
 
 ###
 
-<h4 align="left">Desenvolvedor FullStack</h4>
+<h4 align="center">Desenvolvedor FullStack</h4>
 
 ###
 
@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">Me chamo Pedro Baccarini, tenho 16 anos e atualmente estou cursando o Ensino Médio. Sou de São Paulo e tenho uma grande paixão por tecnologia, sempre buscando aprender coisas novas e explorar diferentes áreas relacionadas a ela.</p>
+<p align="center">Me chamo Pedro Baccarini, tenho 16 anos e atualmente estou cursando o Ensino Médio. Sou de São Paulo e tenho uma grande paixão por tecnologia, sempre buscando aprender coisas novas e explorar diferentes áreas relacionadas a ela.</p>
+
+###
+
+<h3 align="center">Alguns Projetos Desenvolvidos</h3>
+
+###
+
+<p align="center">1.	Gerenciador de Tarefas <br><br>	2.	Site de Festa Juvenil Escolar <br><br>	3.	Calendário Estudantil <br><br>	4.	Landing Page para Empresário <br><br>	5.	Site de Treino Particular</p>
 
 ###
 
@@ -45,14 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBaccarini/PedroBaccarini/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroBaccarini/PedroBaccarini/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroBaccarini/PedroBaccarini/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
